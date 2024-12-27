@@ -1,1 +1,1 @@
-# mffm_multimodal_foundation_model
+# Multimodal Financial Foundation Models (MFFMs): Progress, Prospects, and Challenges
