@@ -13,4 +13,4 @@
 *Earnings Conference Calls*
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues**](https://aclanthology.org/P19-1038.pdf)| ACL | 2019 |  | [MDRM([(https://github.com/GeminiLn/EarningsCall_Dataset/tree/master)]) |
+| [**What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues**](https://aclanthology.org/P19-1038.pdf)| ACL | 2019 |  | [MDRM](https://github.com/GeminiLn/EarningsCall_Dataset/tree/master)|
