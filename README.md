@@ -21,3 +21,4 @@
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**MONOPOLY: Financial Prediction from MONetary POLicY Conference Videos Using Multimodal Cues**](https://dl.acm.org/doi/pdf/10.1145/3503161.3548380?casa_token=HGG8_xUXqgYAAAAA:KKB772yfPxxsIo5IhIrZfeEffMkomYa-KYvHt7p7F3awe1bManRzorGFAqrdckPXkjSdMafYLgAdRQ)| Multimedia | 2022 | [Github](https://github.com/monopoly-monitory-policy-calls/MONOPOLY)  | [MONOPOLY](https://github.com/monopoly-monitory-policy-calls/MONOPOLY)|
+| [**Modal-adaptive Knowledge-enhanced Graph-based Financial Prediction from Monetary Policy Conference Calls with LLM**](https://arxiv.org/pdf/2403.16055) | FinNLP Workshop| 2024| [Github](https://github.com/OuyangKun10/MANAGER)| |
