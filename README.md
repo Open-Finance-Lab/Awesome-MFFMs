@@ -10,6 +10,9 @@
     - [ Earnings Conference Calls](#earnings-conference-calls)
     - [ Monetary Policy Conference](#monetary-policy-conference)
     - [Financial Reports](#financial-reports)
+    - [Financial News](#financial-news)
+    - [Market Information](#market-infomation)
+    - [Climate Data for Commodity Trading](#climate-data-for-commodity-trading)
 # Awesome Papers
 ## Multimodal Financial Data
 ### Earnings Conference Calls
@@ -30,3 +33,18 @@
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Attentive statement fraud detection: Distinguishing multimodal financial data with fine-grained attention.**](https://www.sciencedirect.com/science/article/pii/S0167923622001841?casa_token=H5JWNW5xkkIAAAAA:ieMEzMom76ojHKJGekhrh5uBokT2FtYBAWVhBu406vu46YiO_p3jc8OE9EBa3Q91anUykV9s5x4)| Decision Support System | 2023 | | |
+
+### Financial News
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**.**]()|  |  | | |
+
+### Market Information
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**.**]()|  |  | | |
+
+### Climate Data for Commodity Trading
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**.**]()|  |  | | |
