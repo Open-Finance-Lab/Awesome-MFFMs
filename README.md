@@ -9,6 +9,7 @@
   - [ Multimodal Financial Data](#multimodal-financial-data)
     - [ Earnings Conference Calls](#earnings-conference-calls)
     - [ Monetary Policy Conference](#monetary-policy-conference)
+    - [Financial Reports](#financial-reports)
 # Awesome Papers
 ## Multimodal Financial Data
 ### Earnings Conference Calls
