@@ -14,6 +14,7 @@
     - [Market Information](#market-infomation)
     - [Climate Data for Commodity Trading](#climate-data-for-commodity-trading)
   - [ Multimodal Financial Application](#multimodal-financial-application)
+    - [Financial Decision Making](#financial-decision-making) 
 
 
 # Awesome Papers
@@ -53,4 +54,9 @@
 | [**.**]()|  |  | | |
 
 ## Multimodal Financial Application
-
+### Financial Decision Making
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [FinRL: A deep reinforcement learning library for automated stock trading in quantitative finance](https://github.com/AI4Finance-Foundation/FinRL)| Deep Reinforcement Learning Workshop @ NeurIPS | 2020 | [Github](https://github.com/AI4Finance-Foundation/FinRL) | |
+| [FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/0bf54b80686d2c4dc0808c2e98d430f7-Paper-Datasets_and_Benchmarks.pdf)| NeurIPS | 2022 | [Github](https://github.com/AI4Finance-Foundation/FinRL-Meta) | |
+| [FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)| NeurIPS | 2024 | [Github](https://github.com/The-FinAI/FinCon) | |
