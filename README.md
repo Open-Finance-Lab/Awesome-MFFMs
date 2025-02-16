@@ -13,7 +13,7 @@
     - [Financial News](#financial-news)
     - [Market Information](#market-infomation)
     - [Climate Data for Commodity Trading](#climate-data-for-commodity-trading)
-  -[Multimodal Financial Application](#multimodal-financial-application)
+  - [ Multimodal Financial Application](#multimodal-financial-application)
 
 
 # Awesome Papers
