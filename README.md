@@ -43,22 +43,30 @@
 ### Financial News
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**.**]()|  |  | | |
+| [Analyzing Cascading Outbreak of GameStop Event: A Practical Approach Using Network Analysis and Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3677052.3698636?casa_token=8IWUicpVTmUAAAAA:9RUD7Btk7kf30IAQdRN1GoF0L1_SZNLJ_MgpYl4TD-iM1lzBDW3LT4_EDjis2LoMeWaCHKqBQNKC6A)| ICAIF | 2024 | | |
 
-### Market Information
+
+### Market Data
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**.**]()|  |  | | |
+| [FinRL: A deep reinforcement learning library for automated stock trading in quantitative finance](https://github.com/AI4Finance-Foundation/FinRL)| Deep Reinforcement Learning Workshop @ NeurIPS | 2020 | [Github](https://github.com/AI4Finance-Foundation/FinRL) | |
+| [FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/0bf54b80686d2c4dc0808c2e98d430f7-Paper-Datasets_and_Benchmarks.pdf)| NeurIPS | 2022 | [Github](https://github.com/AI4Finance-Foundation/FinRL-Meta) | |
 
 ### Climate Data for Commodity Trading
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**.**]()|  |  | | |
 
+
+### Financial Curriculum and Certificates
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**.**]()|  |  | | |
+| [High-Quality Financial Benchmark (QFinBen): Can LLMs Earn Degrees and Certificates?]()| Multimodal Financial Foundation Models Workshop @ ICAIF| 2024  | | |
+
+
 ## Multimodal Financial Application
 ### Financial Decision Making
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [FinRL: A deep reinforcement learning library for automated stock trading in quantitative finance](https://github.com/AI4Finance-Foundation/FinRL)| Deep Reinforcement Learning Workshop @ NeurIPS | 2020 | [Github](https://github.com/AI4Finance-Foundation/FinRL) | |
-| [FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/0bf54b80686d2c4dc0808c2e98d430f7-Paper-Datasets_and_Benchmarks.pdf)| NeurIPS | 2022 | [Github](https://github.com/AI4Finance-Foundation/FinRL-Meta) | |
 | [FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)| NeurIPS | 2024 | [Github](https://github.com/The-FinAI/FinCon) | |
