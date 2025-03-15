@@ -25,7 +25,7 @@
     - [Robo-advisor](#robo-advisor)
     - [AI compliance](#ai-compliance)
     - [Trading](#trading)
-  - [Multimodal Financial Foundation Models]
+  - [Multimodal Financial Foundation Models](#multimodal-financial-foundation-models)
 
 
 # Awesome Papers
@@ -121,7 +121,7 @@
 | [FinMem: A performance-enhanced LLM trading agent with layered memory and character design](https://openreview.net/pdf?id=sstfVOwbiG)| LLM-Agent Workshop @ ICLR | 2024 | [Github](https://github.com/pipiku915/FinMem-LLM-StockTrading) | |
 | [FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)| NeurIPS | 2024 | [Github](https://github.com/The-FinAI/FinCon) | |
 
-## Multimodal Financial Applications
+## Multimodal Financial Foundation Models
 |  Model  |   Paper  |   Venue and Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | **Open-FinLLMs**| [Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications](https://arxiv.org/pdf/2408.11878) |  | | |
