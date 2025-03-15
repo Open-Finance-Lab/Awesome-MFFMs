@@ -6,7 +6,7 @@
 ## Table of Contents 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
-  - [ Multimodal Financial Data: Data-Centric Approach](#multimodal-financial-data)
+  - [ Multimodal Financial Data](#multimodal-financial-data)
     - [ Earnings Conference Calls](#earnings-conference-calls)
     - [ Monetary Policy Conference](#monetary-policy-conference)
     - [Financial Reports](#financial-reports)
@@ -19,7 +19,8 @@
 
 
 # Awesome Papers
-## Multimodal Financial Data: Data-Centric Approach
+## Multimodal Financial Data
+**Data-Centric Approach for Multimodal Financial Data**
 ### Earnings Conference Calls
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -65,8 +66,14 @@
 | [High-Quality Financial Benchmark (QFinBen): Can LLMs Earn Degrees and Certificates?]()| Multimodal Financial Foundation Models Workshop @ ICAIF| 2024  | | |
 
 
-## Multimodal Financial Application
-### Financial Decision Making
+## Multimodal Financial Applications
+**Multimodal Financial Applications: MFFM-powered Agentic AI Ecosystem**
+### AI Search
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [Customized fingpt search agents using foundation models](https://dl.acm.org/doi/pdf/10.1145/3677052.3698637?casa_token=3R8UeJJ3L68AAAAA:E_ElzSkM9Nu3TDIr-JlhZkS2vG-5kD2uoAN6PKMz-erSh-s-rcpwjwkzGoyGz95sbI0oE_84ziF9Sw)| ICAIF | 2024 | [Github](https://github.com/Open-Finance-Lab/FinGPT-Search-Agent) | |
+
+### Trading
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)| NeurIPS | 2024 | [Github](https://github.com/The-FinAI/FinCon) | |
