@@ -2,7 +2,6 @@
 
 <div align="center">
   
-## MFFMs
 🔥🔥🔥 **A Survey on Multimodal Financial Foundation Models**  
 
 </div>
