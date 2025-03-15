@@ -6,7 +6,7 @@
 ## Table of Contents 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
-  - [ Multimodal Financial Data](#multimodal-financial-data)
+  - [ Multimodal Financial Data: Data-Centric Approach](#multimodal-financial-data)
     - [ Earnings Conference Calls](#earnings-conference-calls)
     - [ Monetary Policy Conference](#monetary-policy-conference)
     - [Financial Reports](#financial-reports)
