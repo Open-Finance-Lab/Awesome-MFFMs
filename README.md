@@ -15,7 +15,14 @@
     - [Climate Data for Commodity Trading](#climate-data-for-commodity-trading)
     - [Financial Curriculum and Certificates](#financial-curriculum-and-certificates)
   - [ Multimodal Financial Application](#multimodal-financial-application)
-    - [Financial Decision Making](#financial-decision-making) 
+    - [AI search](#ai-search)
+    - [AI tutor](#ai-tutor)
+    - [Financial services](#financial-services)
+    - [Auditing](#auditing)
+    - [Report generation](#report-generation)
+    - [Robo-advisor](#robo-advisor)
+    - [AI compliance](#ai-compliance)
+    - [Trading](#trading)
 
 
 # Awesome Papers
@@ -68,10 +75,42 @@
 
 ## Multimodal Financial Applications
 **Multimodal Financial Applications: MFFM-powered Agentic AI Ecosystem**
-### AI Search
+### AI search
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3604237.3626866?casa_token=R-mGG04P4qIAAAAA:II3kmTzRmD-fOnRBk_X2ieaeUzsS4m_CWl8vGOQNa0u4ks7CxcZduHD9ymqRCyfxjpZG4kyjg7dPKA)| ICAIF | 2023 | | |
 | [Customized fingpt search agents using foundation models](https://dl.acm.org/doi/pdf/10.1145/3677052.3698637?casa_token=3R8UeJJ3L68AAAAA:E_ElzSkM9Nu3TDIr-JlhZkS2vG-5kD2uoAN6PKMz-erSh-s-rcpwjwkzGoyGz95sbI0oE_84ziF9Sw)| ICAIF | 2024 | [Github](https://github.com/Open-Finance-Lab/FinGPT-Search-Agent) | |
+
+### AI tutor
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**.**]()|  |  | | |
+
+
+### Financial services
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**.**]()|  |  | | |
+
+### Auditing
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**.**]()|  |  | | |
+
+### Report generation
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**.**]()|  |  | | |
+
+### Robo-advisor
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**.**]()|  |  | | |
+
+### AI compliance
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**.**]()|  |  | | |
 
 ### Trading
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
