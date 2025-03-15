@@ -1,7 +1,8 @@
 # Multimodal Financial Foundation Models (MFFMs): Progress, Prospects, and Challenges
-
-## MFFMs
+<div align="center">
+## MFFMs ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 🔥🔥🔥 **A Survey on Multimodal Financial Foundation Models**  
+</div>
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
