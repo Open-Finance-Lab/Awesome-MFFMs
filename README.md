@@ -18,7 +18,7 @@
 
 
 # Awesome Papers
-## Multimodal Financial Data
+## Multimodal Financial Data: Data-Centric Approach
 ### Earnings Conference Calls
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -37,6 +37,8 @@
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [Attentive statement fraud detection: Distinguishing multimodal financial data with fine-grained attention](https://www.sciencedirect.com/science/article/pii/S0167923622001841?casa_token=H5JWNW5xkkIAAAAA:ieMEzMom76ojHKJGekhrh5uBokT2FtYBAWVhBu406vu46YiO_p3jc8OE9EBa3Q91anUykV9s5x4)| Decision Support System | 2023 | | |
+| [XBRL-Agent: Leveraging large language models for financial report analysis]([https://www.sciencedirect.com/science/article/pii/S0167923622001841?casa_token=H5JWNW5xkkIAAAAA:ieMEzMom76ojHKJGekhrh5uBokT2FtYBAWVhBu406vu46YiO_p3jc8OE9EBa3Q91anUykV9s5x4](https://dl.acm.org/doi/pdf/10.1145/3677052.3698614?casa_token=eFzOiTLZuGkAAAAA:SNON8hhKqSXmkTASdYeemnJ-6z_QGMufywoaTNEzrqtf8-ylo6sjHIIcvScIafgWdAyq0RUCUx25jQ))| ICAIF | 2024 | | |
+
 
 ### Financial News
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
