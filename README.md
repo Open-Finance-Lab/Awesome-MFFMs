@@ -25,6 +25,7 @@
     - [Robo-advisor](#robo-advisor)
     - [AI compliance](#ai-compliance)
     - [Trading](#trading)
+  - [Multimodal Financial Foundation Models]
 
 
 # Awesome Papers
@@ -119,5 +120,12 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [FinMem: A performance-enhanced LLM trading agent with layered memory and character design](https://openreview.net/pdf?id=sstfVOwbiG)| LLM-Agent Workshop @ ICLR | 2024 | [Github](https://github.com/pipiku915/FinMem-LLM-StockTrading) | |
 | [FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)| NeurIPS | 2024 | [Github](https://github.com/The-FinAI/FinCon) | |
+
+## Multimodal Financial Applications
+|  Model  |   Paper  |   Venue and Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| **Open-FinLLMs**| [Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications](https://arxiv.org/pdf/2408.11878) |  | | |
+| **FinTral**| [FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Model](https://aclanthology.org/2024.findings-acl.774/)|  | [GitHub](https://github.com/UBC-NLP/fintral)| |
+| **FinVis-GPT**| [FinVis-GPT: A multimodal large language model for financial chart analysis.](https://arxiv.org/pdf/2308.01430)|  | | |
 
 
