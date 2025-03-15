@@ -3,7 +3,6 @@
 ## MFFMs
 🔥🔥🔥 **A Survey on MFFMs**  
 
-## Table of Contents 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
   - [ Multimodal Financial Data](#multimodal-financial-data)
