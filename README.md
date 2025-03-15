@@ -11,8 +11,9 @@
     - [ Monetary Policy Conference](#monetary-policy-conference)
     - [Financial Reports](#financial-reports)
     - [Financial News](#financial-news)
-    - [Market Information](#market-infomation)
+    - [Market Data](#market-data)
     - [Climate Data for Commodity Trading](#climate-data-for-commodity-trading)
+    - [Financial Curriculum and Certificates](#financial-curriculum-and-certificates)
   - [ Multimodal Financial Application](#multimodal-financial-application)
     - [Financial Decision Making](#financial-decision-making) 
 
@@ -61,7 +62,6 @@
 ### Financial Curriculum and Certificates
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**.**]()|  |  | | |
 | [High-Quality Financial Benchmark (QFinBen): Can LLMs Earn Degrees and Certificates?]()| Multimodal Financial Foundation Models Workshop @ ICAIF| 2024  | | |
 
 
