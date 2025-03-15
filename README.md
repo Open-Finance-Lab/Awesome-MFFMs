@@ -86,13 +86,13 @@
 ### AI tutor
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**.**]()|  |  | | |
+| [High-Quality Financial Benchmark (QFinBen): Can LLMs Earn Degrees and Certificates?]()|  Multimodal Financial Foundation Models Workshop @ ICAIF | 2024 | | |
 
 
 ### Financial services
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**.**]()|  |  | | |
+| [ Artificial Intelligence Agentic Auditing.]()|  |  | | |
 
 ### Auditing
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
@@ -112,9 +112,12 @@
 ### AI compliance
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**.**]()|  |  | | |
+| [A Report on Financial Regulations Challenge at COLING 2025]()| COLING | 2025 | | |
 
 ### Trading
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [FinMem: A performance-enhanced LLM trading agent with layered memory and character design](https://openreview.net/pdf?id=sstfVOwbiG)| LLM-Agent Workshop @ ICLR | 2024 | [Github](https://github.com/pipiku915/FinMem-LLM-StockTrading) | |
 | [FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)| NeurIPS | 2024 | [Github](https://github.com/The-FinAI/FinCon) | |
+
+
