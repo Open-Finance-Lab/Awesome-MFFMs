@@ -6,7 +6,7 @@
 
 </div>
 
-<font size=5><center><b> ## 📖 Table of contents </b> </center></font>
+<font size=5><center><b> 📖 **Table of contents** </b> </center></font>
 - [Awesome Papers](#awesome-papers)
   - [ Multimodal Financial Data](#multimodal-financial-data)
     - [ Earnings Conference Calls](#earnings-conference-calls)
