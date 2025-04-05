@@ -4,6 +4,10 @@
   
 🔥🔥🔥 **A Survey on Multimodal Financial Foundation Models**  
 
+<div align="center">
+  <img src="pic/overview.png" alt="MFFM Framework" width="600px">
+</div>
+
 </div>
 
 ## 📖 Table of contents
