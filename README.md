@@ -34,102 +34,85 @@
 
 # Awesome Papers
 ## Multimodal Financial Data
-**Data-Centric Approach for Multimodal Financial Data**
-### Earnings Conference Calls
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues](https://aclanthology.org/P19-1038.pdf)| ACL | 2019 |  | [MDRM](https://github.com/GeminiLn/EarningsCall_Dataset/tree/master)|
-| [HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction](https://dl.acm.org/doi/pdf/10.1145/3366423.3380128?casa_token=nczNU-7cmJ8AAAAA:f8QGb4OhlRADBCm6eNl2Zvuwd5B7WIWUTtsEkAcWum-ValjGaTGSyn7NoZcQ-MgiXN-SkdoQMNg5sw)| WWW | 2020 | [Github](https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction) | |
-| [MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction](https://dl.acm.org/doi/pdf/10.1145/3340531.3412879)| CIKM | 2020 |  | [MAEC](https://github.com/Earnings-Call-Dataset/MAEC-A-Multimodal-Aligned-Earnings-Conference-Call-Dataset-for-Financial-Risk-Prediction)|
-| [ECC Analyzer: Extracting Trading Signal from Earnings Conference Calls using Large Language Model for Stock Volatility Prediction](https://dl.acm.org/doi/pdf/10.1145/3677052.3698689)| ICAIF | 2024 |  | |
+### **Data-Centric Approach for Multimodal Financial Data**
+#### Earnings Conference Calls
+[1] [What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues](https://aclanthology.org/P19-1038.pdf) ACL 2019. [Data](https://github.com/GeminiLn/EarningsCall_Dataset/tree/master)
 
-### Monetary Policy Conference
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [MONOPOLY: Financial Prediction from MONetary POLicY Conference Videos Using Multimodal Cues](https://dl.acm.org/doi/pdf/10.1145/3503161.3548380?casa_token=HGG8_xUXqgYAAAAA:KKB772yfPxxsIo5IhIrZfeEffMkomYa-KYvHt7p7F3awe1bManRzorGFAqrdckPXkjSdMafYLgAdRQ)| Multimedia | 2022 | [Github](https://github.com/monopoly-monitory-policy-calls/MONOPOLY)  | [MONOPOLY](https://github.com/monopoly-monitory-policy-calls/MONOPOLY)|
-| [Modal-adaptive Knowledge-enhanced Graph-based Financial Prediction from Monetary Policy Conference Calls with LLM](https://arxiv.org/pdf/2403.16055) | FinNLP Workshop| 2024| [Github](https://github.com/OuyangKun10/MANAGER)| |
+[2] [HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction](https://dl.acm.org/doi/pdf/10.1145/3366423.3380128?casa_token=nczNU-7cmJ8AAAAA:f8QGb4OhlRADBCm6eNl2Zvuwd5B7WIWUTtsEkAcWum-ValjGaTGSyn7NoZcQ-MgiXN-SkdoQMNg5sw), WWW 2020. [Code](https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction).
 
-### Financial Reports
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [Attentive statement fraud detection: Distinguishing multimodal financial data with fine-grained attention](https://www.sciencedirect.com/science/article/pii/S0167923622001841?casa_token=H5JWNW5xkkIAAAAA:ieMEzMom76ojHKJGekhrh5uBokT2FtYBAWVhBu406vu46YiO_p3jc8OE9EBa3Q91anUykV9s5x4)| Decision Support System | 2023 | | |
-| [XBRL-Agent: Leveraging large language models for financial report analysis](https://dl.acm.org/doi/pdf/10.1145/3677052.3698614?casa_token=eFzOiTLZuGkAAAAA:SNON8hhKqSXmkTASdYeemnJ-6z_QGMufywoaTNEzrqtf8-ylo6sjHIIcvScIafgWdAyq0RUCUx25jQ)| ICAIF | 2024 | [Github](https://github.com/Open-Finance-Lab/Chat_XBRL) | |
+[3] [MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction](https://dl.acm.org/doi/pdf/10.1145/3340531.3412879), CIKM 2020. [Data](https://github.com/Earnings-Call-Dataset/MAEC-A-Multimodal-Aligned-Earnings-Conference-Call-Dataset-for-Financial-Risk-Prediction)
+
+[4] [ECC Analyzer: Extracting Trading Signal from Earnings Conference Calls using Large Language Model for Stock Volatility Prediction](https://dl.acm.org/doi/pdf/10.1145/3677052.3698689), ICAIF 2024.
 
 
-### Financial News
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [Analyzing Cascading Outbreak of GameStop Event: A Practical Approach Using Network Analysis and Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3677052.3698636?casa_token=8IWUicpVTmUAAAAA:9RUD7Btk7kf30IAQdRN1GoF0L1_SZNLJ_MgpYl4TD-iM1lzBDW3LT4_EDjis2LoMeWaCHKqBQNKC6A)| ICAIF | 2024 | | |
+#### Monetary Policy Conference
+[5] [MONOPOLY: Financial Prediction from MONetary POLicY Conference Videos Using Multimodal Cues](https://dl.acm.org/doi/pdf/10.1145/3503161.3548380?casa_token=HGG8_xUXqgYAAAAA:KKB772yfPxxsIo5IhIrZfeEffMkomYa-KYvHt7p7F3awe1bManRzorGFAqrdckPXkjSdMafYLgAdRQ), Multimedia 2022. [Code](https://github.com/monopoly-monitory-policy-calls/MONOPOLY)
+
+[6] [Modal-adaptive Knowledge-enhanced Graph-based Financial Prediction from Monetary Policy Conference Calls with LLM](https://arxiv.org/pdf/2403.16055), FinNLP Workshop 2024.  [Code](https://github.com/OuyangKun10/MANAGER)
 
 
-### Market Data
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [FinRL: A deep reinforcement learning library for automated stock trading in quantitative finance](https://github.com/AI4Finance-Foundation/FinRL)| Deep Reinforcement Learning Workshop @ NeurIPS | 2020 | [Github](https://github.com/AI4Finance-Foundation/FinRL) | |
-| [FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/0bf54b80686d2c4dc0808c2e98d430f7-Paper-Datasets_and_Benchmarks.pdf)| NeurIPS | 2022 | [Github](https://github.com/AI4Finance-Foundation/FinRL-Meta) | |
+#### Financial Reports
+[7] [Attentive statement fraud detection: Distinguishing multimodal financial data with fine-grained attention](https://www.sciencedirect.com/science/article/pii/S0167923622001841?casa_token=H5JWNW5xkkIAAAAA:ieMEzMom76ojHKJGekhrh5uBokT2FtYBAWVhBu406vu46YiO_p3jc8OE9EBa3Q91anUykV9s5x4), Decision Support System 2023.
 
-### Climate Data for Commodity Trading
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [**.**]()|  |  | | |
+[8] [XBRL-Agent: Leveraging large language models for financial report analysis](https://dl.acm.org/doi/pdf/10.1145/3677052.3698614?casa_token=eFzOiTLZuGkAAAAA:SNON8hhKqSXmkTASdYeemnJ-6z_QGMufywoaTNEzrqtf8-ylo6sjHIIcvScIafgWdAyq0RUCUx25jQ), ICAIF 2024. [Code](https://github.com/Open-Finance-Lab/Chat_XBRL)
 
 
-### Financial Curriculum and Certificates
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [High-Quality Financial Benchmark (QFinBen): Can LLMs Earn Degrees and Certificates?]()| Multimodal Financial Foundation Models Workshop @ ICAIF| 2024  | | |
+#### Financial News
+[9] [Analyzing Cascading Outbreak of GameStop Event: A Practical Approach Using Network Analysis and Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3677052.3698636?casa_token=8IWUicpVTmUAAAAA:9RUD7Btk7kf30IAQdRN1GoF0L1_SZNLJ_MgpYl4TD-iM1lzBDW3LT4_EDjis2LoMeWaCHKqBQNKC6A), ICAIF 2024.
+
+
+#### Market Data
+[10] [FinRL: A deep reinforcement learning library for automated stock trading in quantitative finance](https://github.com/AI4Finance-Foundation/FinRL), Deep Reinforcement Learning Workshop @ NeurIPS 2020. [Code](https://github.com/AI4Finance-Foundation/FinRL) 
+
+[11][FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/0bf54b80686d2c4dc0808c2e98d430f7-Paper-Datasets_and_Benchmarks.pdf), NeurIPS 2022. [Code](https://github.com/AI4Finance-Foundation/FinRL-Meta)
+
+#### Climate Data for Commodity Trading
+...
+
+#### Financial Curriculum and Certificates
+[12] [High-Quality Financial Benchmark (QFinBen): Can LLMs Earn Degrees and Certificates?](), Multimodal Financial Foundation Models Workshop @ ICAIF 2024.
+
 
 
 ## Multimodal Financial Applications
-**Multimodal Financial Applications: MFFM-powered Agentic AI Ecosystem**
-### AI search
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3604237.3626866?casa_token=R-mGG04P4qIAAAAA:II3kmTzRmD-fOnRBk_X2ieaeUzsS4m_CWl8vGOQNa0u4ks7CxcZduHD9ymqRCyfxjpZG4kyjg7dPKA)| ICAIF | 2023 | | |
-| [Customized fingpt search agents using foundation models](https://dl.acm.org/doi/pdf/10.1145/3677052.3698637?casa_token=3R8UeJJ3L68AAAAA:E_ElzSkM9Nu3TDIr-JlhZkS2vG-5kD2uoAN6PKMz-erSh-s-rcpwjwkzGoyGz95sbI0oE_84ziF9Sw)| ICAIF | 2024 | [Github](https://github.com/Open-Finance-Lab/FinGPT-Search-Agent) | |
+### **Multimodal Financial Applications: MFFM-powered Agentic AI Ecosystem**
+#### AI search
+[13] [Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3604237.3626866?casa_token=R-mGG04P4qIAAAAA:II3kmTzRmD-fOnRBk_X2ieaeUzsS4m_CWl8vGOQNa0u4ks7CxcZduHD9ymqRCyfxjpZG4kyjg7dPKA), ICAIF 2023.
 
-### AI tutor
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [High-Quality Financial Benchmark (QFinBen): Can LLMs Earn Degrees and Certificates?]()|  Multimodal Financial Foundation Models Workshop @ ICAIF | 2024 | | |
+[14] [Customized fingpt search agents using foundation models](https://dl.acm.org/doi/pdf/10.1145/3677052.3698637?casa_token=3R8UeJJ3L68AAAAA:E_ElzSkM9Nu3TDIr-JlhZkS2vG-5kD2uoAN6PKMz-erSh-s-rcpwjwkzGoyGz95sbI0oE_84ziF9Sw), ICAIF 2024. [Code](https://github.com/Open-Finance-Lab/FinGPT-Search-Agent)
 
 
-### Financial services
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [ Artificial Intelligence Agentic Auditing.]()|  |  | | |
+#### AI tutor
+[12] [High-Quality Financial Benchmark (QFinBen): Can LLMs Earn Degrees and Certificates?](), Multimodal Financial Foundation Models Workshop @ ICAIF 2024.
 
-### Auditing
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [**.**]()|  |  | | |
 
-### Report generation
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [**.**]()|  |  | | |
 
-### Robo-advisor
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [**.**]()|  |  | | |
+#### Financial services
 
-### AI compliance
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [A Report on Financial Regulations Challenge at COLING 2025]()| COLING | 2025 | | |
 
-### Trading
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [FinMem: A performance-enhanced LLM trading agent with layered memory and character design](https://openreview.net/pdf?id=sstfVOwbiG)| LLM-Agent Workshop @ ICLR | 2024 | [Github](https://github.com/pipiku915/FinMem-LLM-StockTrading) | |
-| [FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)| NeurIPS | 2024 | [Github](https://github.com/The-FinAI/FinCon) | |
+#### Auditing
+
+
+#### Report generation
+
+
+#### Robo-advisor
+
+
+#### AI compliance
+[15] [A Report on Financial Regulations Challenge at COLING 2025](https://arxiv.org/pdf/2412.11159)
+
+
+#### Trading
+[16] [FinMem: A performance-enhanced LLM trading agent with layered memory and character design](https://openreview.net/pdf?id=sstfVOwbiG), LLM-Agent Workshop @ ICLR 2024. [Code](https://github.com/pipiku915/FinMem-LLM-StockTrading)
+
+[17] [FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf), NeurIPS 2024. [Code](https://github.com/The-FinAI/FinCon)
 
 ## Multimodal Financial Foundation Models
-|  Model  |   Paper  |   Venue and Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| **Open-FinLLMs**| [Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications](https://arxiv.org/pdf/2408.11878) |  | | |
-| **FinTral**| [FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Model](https://aclanthology.org/2024.findings-acl.774/)|  | [GitHub](https://github.com/UBC-NLP/fintral)| |
-| **FinVis-GPT**| [FinVis-GPT: A multimodal large language model for financial chart analysis.](https://arxiv.org/pdf/2308.01430)|  | | |
+[18] [Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications](https://arxiv.org/pdf/2408.11878)
+
+[19] [FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Model](https://aclanthology.org/2024.findings-acl.774/) 
+
+[20] [FinVis-GPT: A multimodal large language model for financial chart analysis.](https://arxiv.org/pdf/2308.01430)
 
 
