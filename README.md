@@ -15,7 +15,7 @@
 
 **📢 Update (Date: 03-01-2025)**
 
-🚀 We released MFFMs [Documentation](https://sites.google.com/view/iwmffm2024/home?authuser=1) <br>
+🚀 We released MFFMs [Documentation](https://awesome-mffms.readthedocs.io/en/latest/#) <br>
 
 
 **📢 Update (Date: 11-15-2024)**
