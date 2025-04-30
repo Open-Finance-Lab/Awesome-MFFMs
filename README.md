@@ -10,6 +10,12 @@
 
 </div>
 
+**📢 Update (Date: 11-15-2024)**
+
+🚀 We host 1st International Workshop on Multimodal Financial Foundation Models (MFFMs) @ ICAIF'24 [Workshop Page](https://sites.google.com/view/iwmffm2024/organization?authuser=1)
+
+
+
 ## 📖 Table of contents
 - [Awesome Papers](#awesome-papers)
   - [ Multimodal Financial Data](#multimodal-financial-data)
