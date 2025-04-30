@@ -11,6 +11,7 @@ In this webpage, we describe the progress, prospects, and challenges of MFFMs. W
    :align: center  
    :alt: An overview
 
-   Figure is an overview to Multimodal Financial Foundation Models (MFFMs). Multimodal financial data (left block) is ubiquitous in business and finance applications (middle block),
+
+Figure is an overview to Multimodal Financial Foundation Models (MFFMs). Multimodal financial data (left block) is ubiquitous in business and finance applications (middle block),
 such as search, tutor, robo-advisor, compliance, auditing, trading, etc. However, several major challenges (right block) call for
 immediate actions, in order to achieve financial AI readiness and governance.
