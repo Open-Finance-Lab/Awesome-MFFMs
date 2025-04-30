@@ -13,6 +13,11 @@
 
 ## 📰 News
 
+**📢 Update (Date: 03-01-2025)**
+
+🚀 We released MFFMs documentation <br>
+[Documentation](https://sites.google.com/view/iwmffm2024/home?authuser=1)
+
 **📢 Update (Date: 11-15-2024)**
 
 🚀 We host the 1st International Workshop on Multimodal Financial Foundation Models (MFFMs) @ ICAIF'24 <br>
