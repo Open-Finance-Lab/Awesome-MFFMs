@@ -15,12 +15,45 @@ Awesome MFFMs Documentation
    :maxdepth: 2
    :caption: Contents:
 
+
 .. toctree::
    :maxdepth: 2
    :caption: Introduction
 
    intro/overview
+   intro/terminology
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Multimodal Data
+
+   multimodal_data/data_centric_approach
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Agentic AI Ecosystem
+
+   multimodal_application/agent
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: MFFMs: Progress and Prospect
+
+   mffm/benchmark
+   mffm/model
+   mffm/dataset
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Challenges and Opportunities
+
+   challenges_opportunities/challenges
+   challenges_opportunities/opportunities
+   
 
 .. toctree::
    :maxdepth: 2
