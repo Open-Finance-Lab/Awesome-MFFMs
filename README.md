@@ -13,8 +13,10 @@
 
 ## 📰 News
 
++ [YouTube](https://www.youtube.com/watch?v=d2S_qugEbMQ)
++ [Podcast](https://kathrynj2.podbean.com/e/multimodal-financial-foundation-models-a-paper-review/)
+  
 **📢 Update (Date: 03-01-2025)**
-
 🚀 We released MFFMs [Documentation](https://awesome-mffms.readthedocs.io/en/latest/#) <br>
 
 
