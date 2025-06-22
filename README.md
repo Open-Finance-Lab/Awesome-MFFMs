@@ -13,14 +13,15 @@
 
 ## 📰 News
 
++ [YouTube](https://www.youtube.com/watch?v=d2S_qugEbMQ)
++ [Podcast](https://kathrynj2.podbean.com/e/multimodal-financial-foundation-models-a-paper-review/)
+  
 **📢 Update (Date: 03-01-2025)**
-
 🚀 We released MFFMs [Documentation](https://awesome-mffms.readthedocs.io/en/latest/#) <br>
 
 
 **📢 Update (Date: 11-15-2024)**
-
-🚀 We host the 1st International Workshop on Multimodal Financial Foundation Models (MFFMs) @ ICAIF'24 <br>
+🚀 We host the 1st International Workshop on Multimodal Financial Foundation Models (MFFMs) @ ICAIF'24
 [Workshop Page](https://sites.google.com/view/iwmffm2024/home?authuser=1)
 
 
