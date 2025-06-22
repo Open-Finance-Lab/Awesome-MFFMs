@@ -26,7 +26,7 @@ Awesome MFFMs Documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Multimodal Data
+   :caption: Multimodal Financial Data
 
    multimodal_data/data_centric_approach
 
