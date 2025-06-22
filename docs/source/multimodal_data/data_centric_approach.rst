@@ -3,7 +3,8 @@ Data Centric Approach for Multimodal Financial Data
 =================================
 
 Overview
-============
+=============================
+
 Multimodal data is common in business, finance, accounting, and auditing.
 
 - **Textual data:** Text is the most prevalent data type, including financial news, financial reports, earnings conference call transcripts, and social media posts. These textual data provide timely market information and reflect market participants' sentiments.
