@@ -22,12 +22,14 @@ Ethical Challenges
 There are intensified ethical concerns with MFFMs. Mishandling sensitive information and thus making unfair, biased judgments can be disastrous to financial institutions. Analysts who trust flawed MFFMs will make bad investment decisions and improper risk assessments. Small missteps can cause significant client dissatisfaction and negative media attention. 
 
 **Persistent ethical issues include:**
+
 - **Security and privacy:** It is vital that FinLLMs have airtight security to prevent leakage of sensitive information. Example: Samsung employees accidentally leaked company secrets when prompting ChatGPT for help.
 - **Copyright infringement:** FinLLMs trained on Internet data are not allowed to output copyrighted data to end users. Example: The New York Times sued OpenAI and Microsoft for using millions of its articles; Perplexity was accused of using articles from The Wall Street Journal or The New York Post to populate its RAG database and generate responses to user queries.
 - **Systematic bias:** In decision-making processes, FinLLMs’ systematic bias may lead to unfair discrimination towards certain racial groups. According to Zillow and Consumer Reports, LLMs may quote African Americans at higher prices in home mortgages and car insurance due to historical segregation towards disaster-prone areas.
 - **Transparency, explainability, and accountability:** It is important to ensure that FinLLMs are transparent, explainable, and accountable, providing clear responses, especially in finance where every decision has significant implications. J.P. Morgan Chase established its firmwide Explainable AI Center of Excellence (XAI COE) for research on explainability and fairness in finance.
 
 **Newly-emerging ethical issues include:**
+
 - **Truthfulness:** LLMs consistently hallucinate, creating false statements. In business and finance, hallucinations are problematic because LLMs’ output must exactly match information extracted from earnings reports when queried. Microsoft faced backlash when Bing AI hallucinated when analyzing Gap and Lululemon’s earnings reports during a demo.
 - **Sycophancy:** LLMs demonstrate sycophancy, catering their outputs to match user beliefs rather than being truthful. Sycophancy is problematic when it causes inaccurate confirmation of financial analysts' and accountants’ math.
 - **Compliance with professional norms:** LLM responses must follow professional norms to avoid implicit toxicity in training data. This is vital to preserve company culture and public relations.
