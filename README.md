@@ -1,8 +1,8 @@
-# Multimodal Financial Foundation Models (MFFMs): Progress, Prospects, and Challenges
+# Multimodal Financial Foundation Models (MFFMs): Progress, Prospects, and Challenges 🔥🔥🔥
 
 <div align="center">
   
-🔥🔥🔥 **A Survey on Multimodal Financial Foundation Models**  
+**A Survey on Multimodal Financial Foundation Models**  
 
 <div align="center">
   <img src="pic/overview_new.png" alt="MFFM Framework" width="600px">
