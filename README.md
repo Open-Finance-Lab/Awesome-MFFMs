@@ -15,7 +15,10 @@
 
 + [Nosa Capital's YouTube](https://www.youtube.com/watch?v=d2S_qugEbMQ)
 + [PodBean's Podcast](https://kathrynj2.podbean.com/e/multimodal-financial-foundation-models-a-paper-review/)
-  
+
+**📢 Update (Date: 02-26-2026)**
+🎙️ Invited Talk at The University of Chicago [Webpage](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/the-future-of-ai-in-asset-management)
+
 **📢 Update (Date: 06-01-2025)**
 🎙️ Invited Talk at FINOS [Slides](https://lists.finos.org/g/zenith/attachment/108/0/FinAgents_Leaderboard_June_12_2025_V2.pdf)
 
